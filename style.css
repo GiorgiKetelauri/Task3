@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 50px;
+    margin-left: 2px;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  color: black;
+}
+
+th {
+  font-size: xx-large;
+  color: gold;
+  background-color: red;
+}
+
+tr {
+  font-size: xx-large;
+}
+h2 {
+  font-size: 24px;
+  color: blue;
+}
+
+body {
+  background-image: url(https://wallpapers.com/images/featured/profile-background-b5vedq7mz8mjvslu.jpg);
+}
+
+p {
+   font-style: initial;
+   font-weight: bolder;
+}
+
+.box2 {
+    color: red;
+}
+
+#uniquesong {
+    
+}
